@@ -7,6 +7,3 @@ This repository contains general course materials, including:
 - [Course Syllabus](MUSA650_Syllabus.md)
 - [Recommended reading materials](ReadingMaterials.md)
 
-A quick poll ...
-https://forms.gle/yukmvgwmwHuhQiH79
-
