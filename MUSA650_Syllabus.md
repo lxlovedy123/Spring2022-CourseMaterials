@@ -18,7 +18,7 @@ Online on Bluejeans (the class and office hours will be online on Bluejeans. Onl
 
 - Wed, Fri 12PM to 1AM (Online)
 
-**Mikhail**:
+**Mikhail Hayhoe**:
 
 - Tue, Thu 12PM to 1AM (Online)
 
