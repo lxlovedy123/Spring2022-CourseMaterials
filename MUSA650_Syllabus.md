@@ -59,18 +59,18 @@ This course relies on use of Python and various related packages. The class will
 | ---------------------- | ------ | ---------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
 | Week 1                 | Jan 15 | Overview of remote sensing and satellite imagery appications | Assign HW #1 |
 | **MLK Day**            | Jan 20 |                                                                                    |                                                                       |
-| Week 2                 | Jan 27 | [Fundamentals of machine learning from a remote sensing perspective](https://github.com/MUSA-650/Spring2021-Week-2) | |
-| Week 3                 | Feb 3  | [Data preparation: imaging feature extraction, visualization, normalization, data harmonization](https://github.com/MUSA-650/Spring2021-Week-3) | Assign HW #2 |
-| Week 4                 | Feb 10 | [Dimensionality reduction and unsupervised learning](https://github.com/MUSA-650/Spring2021-Week-4) |  |
-| Week 5                 | Feb 17 | [Supervised learning for land cover classification, Part 1: training, cross-validation, method and model selection, parameter optimization](https://github.com/MUSA-650/Spring2021-Week-5) | Assign HW #3 |
-| Week 6                 | Feb 24 | [Supervised learning for land cover classification, Part 2: validation, evaluation, multi-class classification](https://github.com/MUSA-650/Spring2021-Week-6) |  |
-| Week 7                 | Mar 2  | [Case studies: DSTL and EuroSat challenges](https://github.com/MUSA-650/Spring2021-Week-7) | Assign HW #4 |
-| Week 8                 | Mar 9  | [Ensemble methods in machine learning](https://github.com/MUSA-650/Spring2021-Week-8) |  |
+| Week 2                 | Jan 27 | Fundamentals of machine learning from a remote sensing perspective | |
+| Week 3                 | Feb 3  | Data preparation: imaging feature extraction, visualization, normalization, data harmonization | Assign HW #2 |
+| Week 4                 | Feb 10 | Dimensionality reduction and unsupervised learning |  |
+| Week 5                 | Feb 17 | Supervised learning for land cover classification, Part 1: training, cross-validation, method and model selection, parameter optimization | Assign HW #3 |
+| Week 6                 | Feb 24 | Supervised learning for land cover classification, Part 2: validation, evaluation, multi-class classification |  |
+| Week 7                 | Mar 2  | Case studies: DSTL and EuroSat challenges | Assign HW #4 |
+| Week 8                 | Mar 9  | Ensemble methods in machine learning |  |
 | **Spring Break**       | Mar 16 |  | |
-| Week 9                 | Mar 23 | [Fundamentals of deep learning](https://github.com/MUSA-650/Spring2021-Week-9) | Assign HW #5 |
-| Week 10                | Mar 30 | [Recent advances in deep learning: literature review and paper discussion](https://github.com/MUSA-650/Spring2021-Week-10) |  |
-| Week 11                | Apr 6  | [Convolutional neural networks for image classification; UNet architecture for semantic segmentation](https://github.com/MUSA-650/Spring2021-Week-11)  | Assign HW #6 |
-| Week 12                | Apr 13 | [Case studies: DSTL and EuroSat challenges revisited](https://github.com/MUSA-650/Spring2021-Week-12) |  Proposals for final project |
-| Week 13                | Apr 20 | [Case study: predictive modeling using deep learning](https://github.com/MUSA-650/Spring2021-Week-13) |  |
-| Week 14                | Apr 27 | [Big data and machine learning: techniques, tools, challenges, future directions](https://github.com/MUSA-650/Spring2021-Week-14) | |
+| Week 9                 | Mar 23 | Fundamentals of deep learning | Assign HW #5 |
+| Week 10                | Mar 30 | Recent advances in deep learning: literature review and paper discussion |  |
+| Week 11                | Apr 6  | Convolutional neural networks for image classification; UNet architecture for semantic segmentation  | Assign HW #6 |
+| Week 12                | Apr 13 | Case studies: DSTL and EuroSat challenges revisited |  Proposals for final project |
+| Week 13                | Apr 20 | Case study: predictive modeling using deep learning |  |
+| Week 14                | Apr 27 | Big data and machine learning: techniques, tools, challenges, future directions | |
 
