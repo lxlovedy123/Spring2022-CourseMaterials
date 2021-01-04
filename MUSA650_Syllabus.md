@@ -57,7 +57,7 @@ This course relies on use of Python and various related packages. The class will
 
 | Class #                | Date   | Topic                                                                              | Homework                                                              |
 | ---------------------- | ------ | ---------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| Week 1                 | Jan 15 | [Overview of remote sensing and satellite imagery appications](https://github.com/MUSA-650/Spring2020-Week-1) | Assign HW #1 |
+| Week 1                 | Jan 15 | Overview of remote sensing and satellite imagery appications | Assign HW #1 |
 | **MLK Day**            | Jan 20 |                                                                                    |                                                                       |
 | Week 2                 | Jan 27 | [Fundamentals of machine learning from a remote sensing perspective](https://github.com/MUSA-650/Spring2021-Week-2) | |
 | Week 3                 | Feb 3  | [Data preparation: imaging feature extraction, visualization, normalization, data harmonization](https://github.com/MUSA-650/Spring2021-Week-3) | Assign HW #2 |
