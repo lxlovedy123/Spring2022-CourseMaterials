@@ -7,6 +7,10 @@
 Monday from 9AM to 12PM
 Online on Bluejeans (the class and office hours will be online on Bluejeans. Online class links will be announced weekly on Piazza and GitHub pages of the class).
 
+This term we will be using Piazza for class discussion. The system is highly catered to getting you help fast and efficiently from classmates, the TA, and myself. Rather than emailing questions to the teaching staff, I encourage you to post your questions on Piazza.
+
+Find our class page at: https://piazza.com/upenn/spring2021/musa650/home
+
 ### Contact Info
 
 - **Instructor**: Guray Erus, guray.erus@pennmedicine.upenn.edu
