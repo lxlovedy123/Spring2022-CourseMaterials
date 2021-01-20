@@ -61,20 +61,18 @@ This course relies on use of Python and various related packages. The class will
 
 | Class #                | Date   | Topic                                                                              | Homework                                                              |
 | ---------------------- | ------ | ---------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| Week 1                 | Jan 15 | Overview of remote sensing and satellite imagery appications | Assign HW #1 |
-| **MLK Day**            | Jan 20 |                                                                                    |                                                                       |
-| Week 2                 | Jan 27 | Fundamentals of machine learning from a remote sensing perspective | |
-| Week 3                 | Feb 3  | Data preparation: imaging feature extraction, visualization, normalization, data harmonization | Assign HW #2 |
-| Week 4                 | Feb 10 | Dimensionality reduction and unsupervised learning |  |
-| Week 5                 | Feb 17 | Supervised learning for land cover classification, Part 1: training, cross-validation, method and model selection, parameter optimization | Assign HW #3 |
-| Week 6                 | Feb 24 | Supervised learning for land cover classification, Part 2: validation, evaluation, multi-class classification |  |
-| Week 7                 | Mar 2  | Case studies: DSTL and EuroSat challenges | Assign HW #4 |
-| Week 8                 | Mar 9  | Ensemble methods in machine learning |  |
-| **Spring Break**       | Mar 16 |  | |
-| Week 9                 | Mar 23 | Fundamentals of deep learning | Assign HW #5 |
-| Week 10                | Mar 30 | Recent advances in deep learning: literature review and paper discussion |  |
-| Week 11                | Apr 6  | Convolutional neural networks for image classification; UNet architecture for semantic segmentation  | Assign HW #6 |
-| Week 12                | Apr 13 | Case studies: DSTL and EuroSat challenges revisited |  Proposals for final project |
-| Week 13                | Apr 20 | Case study: predictive modeling using deep learning |  |
-| Week 14                | Apr 27 | Big data and machine learning: techniques, tools, challenges, future directions | |
+| Week 1                 | Jan 25 | Overview of remote sensing and satellite imagery appications | Assign HW #1 |
+| Week 2                 | Feb 1 | Fundamentals of machine learning from a remote sensing perspective | |
+| Week 3                 | Feb 8  | Data preparation: imaging feature extraction, visualization, normalization, data harmonization | Assign HW #2 |
+| Week 4                 | Feb 15 | Dimensionality reduction and unsupervised learning |  |
+| Week 5                 | Feb 22 | Supervised learning for land cover classification, Part 1: training, cross-validation, method and model selection, parameter optimization | Assign HW #3 |
+| Week 6                 | Mar 1 | Supervised learning for land cover classification, Part 2: validation, evaluation, multi-class classification |  |
+| **Spring Break**       | Mar 8 |  | |
+| Week 7                 | Mar 15 | Ensemble methods in machine learning. Case studies: DSTL and EuroSat challenges | Assign HW #4 |
+| Week 8                 | Mar 22 | Fundamentals of deep learning | Assign HW #5 |
+| Week 9                 | Mar 29 | Recent advances in deep learning: literature review and paper discussion |  |
+| Week 10                | Apr 5  | Convolutional neural networks for image classification; UNet architecture for semantic segmentation  | Assign HW #6 |
+| Week 11                | Apr 12 | Case studies: DSTL and EuroSat challenges revisited |  Proposals for final project |
+| Week 12                | Apr 19 | Case study: predictive modeling using deep learning |  |
+| Week 13                | Apr 26 | Big data and machine learning: techniques, tools, challenges, future directions | |
 
