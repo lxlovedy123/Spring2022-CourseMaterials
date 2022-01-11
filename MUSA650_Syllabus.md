@@ -4,12 +4,14 @@
 
 ### Class
 
-Monday from 9AM to 12PM
-Online on Bluejeans (the class and office hours will be online on Bluejeans. Online class links will be announced weekly on Piazza and GitHub pages of the class).
+Monday from 10:15AM to 1:15PM
+
+- Jan 12 to Jan 24:  Online on Zoom (Online class links will be announced weekly on Piazza and GitHub pages of the class)
+- After Jan 24:      In person
 
 This term we will be using Piazza for class discussion. The system is highly catered to getting you help fast and efficiently from classmates, the TA, and myself. Rather than emailing questions to the teaching staff, I encourage you to post your questions on Piazza.
 
-Find our class page at: https://piazza.com/upenn/spring2021/musa650/home
+Find our class page at: https://piazza.com/upenn/spring2022/musa650/home
 
 ### Contact Info
 
@@ -20,7 +22,7 @@ Find our class page at: https://piazza.com/upenn/spring2021/musa650/home
 
 **Guray Erus**:
 
-- Wed, Fri 12PM to 1AM (Online)
+- Thu 9AM to 10AM (Online/In person)
 
 **Mikhail Hayhoe**:
 
@@ -29,7 +31,7 @@ Find our class page at: https://piazza.com/upenn/spring2021/musa650/home
 ### Course Websites
 
 - GitHub: https://github.com/MUSA-650
-- Piazza: https://piazza.com/upenn/spring2021/musa650/home
+- Piazza: https://piazza.com/upenn/spring2022/musa650/home
 
 ## Course Description
 
@@ -61,18 +63,19 @@ This course relies on use of Python and various related packages. The class will
 
 | Class #                | Date   | Topic                                                                              | Homework                                                              |
 | ---------------------- | ------ | ---------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| Week 1                 | Jan 25 | Overview of remote sensing and satellite imagery appications | Assign HW #1 |
-| Week 2                 | Feb 1 | Fundamentals of machine learning from a remote sensing perspective | |
-| Week 3                 | Feb 8  | Data preparation: imaging feature extraction, visualization, normalization, data harmonization | Assign HW #2 |
-| Week 4                 | Feb 15 | Dimensionality reduction and unsupervised learning |  |
-| Week 5                 | Feb 22 | Supervised learning for land cover classification, Part 1: training, cross-validation, method and model selection, parameter optimization | Assign HW #3 |
-| Week 6                 | Mar 1 | Supervised learning for land cover classification, Part 2: validation, evaluation, multi-class classification |  |
-| **Spring Break**       | Mar 8 |  | |
-| Week 7                 | Mar 15 | Ensemble methods in machine learning. Case studies: DSTL and EuroSat challenges | Assign HW #4 |
-| Week 8                 | Mar 22 | Fundamentals of deep learning | Assign HW #5 |
-| Week 9                 | Mar 29 | Recent advances in deep learning: literature review and paper discussion |  |
-| Week 10                | Apr 5  | Convolutional neural networks for image classification; UNet architecture for semantic segmentation  | Assign HW #6 |
-| Week 11                | Apr 12 | Case studies: DSTL and EuroSat challenges revisited |  Proposals for final project |
-| Week 12                | Apr 19 | Case study: predictive modeling using deep learning |  |
-| Week 13                | Apr 26 | Big data and machine learning: techniques, tools, challenges, future directions | |
+| Week 1                 | Jan 12 | Overview of remote sensing and satellite imagery appications | Assign HW #1 |
+| Week 2                 | Feb 24 | Fundamentals of machine learning from a remote sensing perspective | |
+| Week 3                 | Jan 31  | Data preparation: imaging feature extraction, visualization, normalization, data harmonization | Assign HW #2 |
+| Week 4                 | Feb 7 | Dimensionality reduction and unsupervised learning |  |
+| Week 5                 | Feb 14 | Supervised learning for land cover classification, Part 1: training, cross-validation, method and model selection, parameter optimization | Assign HW #3 |
+| Week 6                 | Feb 21 | Supervised learning for land cover classification, Part 2: validation, evaluation, multi-class classification |  |
+| Week 7                 | Feb 28 | Ensemble methods in machine learning. Case studies: DSTL and EuroSat challenges | Assign HW #4 |
+| **Spring Break**       | Mar 7 |  | |
+| Week 8                 | Mar 14 | Fundamentals of deep learning | Assign HW #5 |
+| Week 9                 | Mar 21 | Recent advances in deep learning: literature review and paper discussion |  |
+| Week 10                | Mar 28  | Convolutional neural networks for image classification; UNet architecture for semantic segmentation  | Assign HW #6 |
+| Week 11                | Apr 4 | Case studies: DSTL and EuroSat challenges revisited |  Proposals for final project |
+| Week 12                | Apr 11 | Case study: predictive modeling using deep learning |  |
+| Week 13                | Apr 18 | Big data and machine learning: techniques, tools, challenges, future directions | |
+| Week 14                | Apr 25 | Project reviews | |
 
