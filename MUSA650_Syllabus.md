@@ -22,7 +22,7 @@ Find our class page at: https://piazza.com/upenn/spring2022/musa650/home
 
 **Guray Erus**:
 
-- Thu 9AM to 10AM (Online/In person)
+- Tue 5:30PM to 7:30PM (Online)
 
 **Mikhail Hayhoe**:
 
